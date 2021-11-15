@@ -2,7 +2,7 @@
 
 Tarea 4
 
-![DEMO](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![DEMO](https://github.com/juanpintop/grafica_tarea4/raw/main/tarea4.gif)
 
 ### Notas
 * _Testeado en Windows 11 Home Insider Preview 22471.1000_
